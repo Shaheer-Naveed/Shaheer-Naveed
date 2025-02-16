@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JAVASCRIPT,MYSQL,PHP**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JAVASCRIPT,MYSQL,PHP,LARAVEL, ANGULAR**
 
 - 📫 How to reach me **shaheernaveed27@gmail.com**
 
